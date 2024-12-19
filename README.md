@@ -51,7 +51,7 @@ The following key functionalities are essential for the completion of the projec
 
 ## Screenshots
 Below are key screenshots showcasing the application:
-- **Welcome**: ![Welcome](C:\Users\User\Pictures\Screenshots\Welcome.png)
+- **Welcome**: ![Welcome]()
 - **Registration**: ![Registration]() 
 - **Login**: ![Login]() 
 - **Seaarch**: ![Search]() 
@@ -61,20 +61,15 @@ Below are key screenshots showcasing the application:
 
 ## UML Class Diagram
 The UML class diagram provides a visual representation of the system’s structure, detailing the classes, attributes, methods, and their relationships.
-![UML Diagram](UML/employeeperformanceapp3.png)
+![UML Diagram]()
 
-### Diagram Description:
-- **Employee**: Represents employee details with attributes like `name`, `department`, and `hireDate`.
-- **EmployeeGrade**: Extends `Employee` and adds an additional property `grade` to store the evaluation score.
-- **EmployeeDAO**: Handles database operations for managing employees and grades.
-- **EmployeeDAOInterface**: Interface for CRUD operations related to employee records.
-- **HelloController**: JavaFX controller that handles UI interactions, including employee addition, modification, deletion, and evaluation.
 
 ## Weekly Meeting Documentation
-Weekly meeting summaries and action items can be found in the [Google Docs link](https://docs.google.com/document/d/1E4ld5ssIVgZshUG-lhLDjgzNAuSk3Rkg3Ik92CVwCgI/edit?usp=sharing).
+Weekly meeting summaries and action items can be found in the [Google Docs link]().
 
 
 ## GitHub Repository
-The project source code and documentation can be accessed on GitHub at [GitHub Repository Link](https://github.com/EMMMABK/Employee-Performance-Evaluation-System.git).
+The project source code and documentation can be accessed on GitHub at [GitHub Repository Link](https://github.com/Cerber6002/AirlineSystem.git).
 
 ## Jar File Build
+
