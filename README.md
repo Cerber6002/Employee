@@ -51,13 +51,13 @@ The following key functionalities are essential for the completion of the projec
 
 ## Screenshots
 Below are key screenshots showcasing the application:
-- **Welcome**: ![Welcome]("C:\Users\User\Pictures\Screenshots\Welcome.png")
-- **Registration**: ![Registration]() ![Registration](/assets/employees/Employee2.png) 
-- **Login**: ![Login](/assets/edit/edit1.png) 
-- **Seaarch**: ![Search](/assets/grades/Grades1.png) 
-- **Flights**: ![Flights](/assets/trash/Trash1.png) 
-- **Ticket**: ![Ticket](/assets/db/psql1.png) 
-- **DataBase**:![Database](/assets/db/psql1.png) 
+- **Welcome**: ![Welcome](C:\Users\User\Pictures\Screenshots\Welcome.png)
+- **Registration**: ![Registration]() 
+- **Login**: ![Login]() 
+- **Seaarch**: ![Search]() 
+- **Flights**: ![Flights]() 
+- **Ticket**: ![Ticket]() 
+- **DataBase**:![Database]() 
 
 ## UML Class Diagram
 The UML class diagram provides a visual representation of the system’s structure, detailing the classes, attributes, methods, and their relationships.
