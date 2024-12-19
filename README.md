@@ -51,7 +51,7 @@ The following key functionalities are essential for the completion of the projec
 
 ## Screenshots
 Below are key screenshots showcasing the application:
-- **Welcome**: ![Welcome]()
+- **Welcome**: ![Welcome](D:\ССС\Screens\Welcome.png)
 - **Registration**: ![Registration]() 
 - **Login**: ![Login]() 
 - **Seaarch**: ![Search]() 
