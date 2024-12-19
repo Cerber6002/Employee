@@ -1,57 +1,57 @@
-# Employee Performance Management System
+# Airline Ticket Managment System
 
 ## Table of Contents
-1. [Description](#description)
-2. [Project Requirements List](#project-requirements-list)
-3. [Team Members List](#team-members-list)
-4. [Roles of Group Members](#roles-of-group-members)
-5. [Screenshots](#screenshots)
-6. [Sample Data](#sample-data)
-7. [UML Class Diagram](#uml-class-diagram)
-8. [E-R Diagrams](#e-r-diagram)
+1. [Youtube](#youtube-video)
+2. [Presentation](#presentation)
+3. [Description](#description)
+4. [Project Requirements List](#project-requirements-list)
+5. [Team Members List](#team-members-list)
+6. [Roles of Group Members](#roles-of-group-members)
+7. [Screenshots](#screenshots)
+8. [UML Class Diagram](#uml-class-diagram)
 9. [Weekly Meeting Documentation](#weekly-meeting-documentation)
-10. [OOP Concepts and questions](#oop-concepts-and-questions)
-11. [Unit Test Cases](#unit-test-cases)
-12. [Presentation](#presentation)
-13. [Github Repository](#github-repository)
-14. [Jar File Build](#jar-file-build)
-15. [Youtube](#youtube-video)
+10. [Github Repository](#github-repository)
+11. [Jar File Build](#jar-file-build)
+   
     
 
+## YouTube Video
+Link on YOUTUBE - https://youtu.be/T9uMdnjUhpA 
+
+## Presentation - https://www.canva.com/design/DAGZbz846IY/Qqwkz-mMVDkCkmYv_iFdRg/edit?utm_content=DAGZbz846IY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Description
-The Employee Performance Evaluation System helps an organization manage and assess its employees' performance efficiently. It allows the user to add, edit, delete, and even move employee records to the trash. An employee's performance is also tracked through an evaluation system based on attendance, soft skills, and hard skills. This will enable the HR team to effectively manage and evaluate the overall performance of the employees. Besides, it has functions for managing and restoring deleted employee records.
+The Airline Ticket Management System allows users to book, manage, and cancel flights through an intuitive interface, and also supports administrative functions.
 
 ## Project Requirements List
 The following key functionalities are essential for the completion of the project:
-1. **Add Employee**: Add new employees to the system with basic information such as name, department, and hire date.
-2. **Edit Employee**: Modify employee details like name and department.
-3. **Delete Employee**: Delete an employee’s record and move it to a trash table.
-4. **Restore Employee**: Restore a deleted employee’s record from the trash table back to the main employee table.
-5. **Evaluate Employee**: Assess employee performance based on attendance, soft skills, and hard skills, then calculate an overall grade.
-6. **View All Employees**: Display a list of all employees with relevant details.
-7. **View Trash**: View deleted employees’ details in the trash table.
-8. **Employee Grades**: View and update performance grades for employees based on evaluations.
-9. **Grade Existence Check**: Ensure that grades are only added or updated for existing employees.
-10. **Clear Input Fields**: Automatically clear the input fields after adding or editing employee records.
-11. **View Project**: View project data such as title, description, dates.
-12. **Add Project**: Add project to the database and project information like title, description, dates.
-13. **Delete Project**: Delete a project and its information without moving it to the trash.
-14. **Edit Project**: Edit project information like title, description, dates.
+1. **User Registration**: Allow users to register by providing essential information such as name, email, and password.
+2. **Login**: Enable registered users to log in securely with email and password credentials.
+3. **Adding Tickets**: Provide the ability to add new tickets, including details such as flight ID, seat number, and ticket price.
+4. **Ticket Search**: Implement a search feature to quickly find tickets based on parameters like ticket ID or flight ID.
+5. **Ticket Booking**: Facilitate ticket booking by assigning tickets to specific customers, confirming availability, and processing the booking.
+6. **Booking Cancellation**:  Allow users or administrators to cancel a booking and update the ticket status accordingly.
+7. **Administrative Functions**: Enable administrators to perform tasks such as managing flights, viewing user details, and generating reports.
+8. **Database Connection Using DAO**: Ensure secure and efficient data operations by utilizing the Data Access Object (DAO) pattern for all database interactions.
+9. **Implementation of MVC Architecture**: Follow the Model-View-Controller design pattern to separate data, user interface, and control logic for better maintainability.
+10. **Exception Handling for Invalid Input**: Automatically clear the input fields after adding or editing employee records.
+11. **UML Class Diagram**: Present a well-structured UML class diagram showcasing the relationships and attributes of the system's classes.
+12. **Creating a JAR File**: Add project to the database and project information like title, description, dates. Package the application into a JAR file for easy distribution and execution.
 
 ## Team Members List
-- **Adil Bikiev** - Project Manager, Database Administrator, Backend Developer
-- **Yryskeldi Bakhapov** - Tester, UI/UX Designer, Content Creator
-- **Altynbek Zhonguchkaev** - Database Administrator, Backend Developer, Frontend Developer
+- **Zhumadilov Uranbek** 
+- **Zhyldyzbekov Sultan** 
+- **Gairatbekov Kasymbek** 
 
 ## Roles of Group Members
-- **Adil Bikiev**: Managed the overall project, implemented the backend logic, and integrated database functions.
-- **Yryskeldi Bakhapov**: Designed the user interface using JavaFX and SceneBuilder. Handled front-end integration.
-- **Altynbek Zhonguchkaev**: Managed the database schema, created the `EmployeeDAO` class, and handled database connections and queries.
+- **Zhumadilov Uranbek**: - Project Manager, Database Administrator, Backend Developer
+- **Zhyldyzbekov Sultan**: - Tester, UI/UX Designer, Content Creator
+- **Gairatbekov Kasymbek**: - Database Administrator, Backend Developer, Frontend Developer
 
 ## Screenshots
 Below are key screenshots showcasing the application:
-- **Home**: ![Home](/assets/home/Home.png)
-- **Employee**: ![Employee](/assets/employees/Employee1.png) ![Employee](/assets/employees/Employee2.png) ![Employee](/assets/employees/Employee3.png) ![Employee](/assets/employees/Employee4.png)
+- **Welcome**: ![Welcome]("C:\Users\User\Pictures\Screenshots\Welcome.png")
+- **Employee**: ![Employee]() ![Employee](/assets/employees/Employee2.png) ![Employee](/assets/employees/Employee3.png) ![Employee](/assets/employees/Employee4.png)
 - **Edit**: ![Edit](/assets/edit/edit1.png) ![Edit](/assets/edit/edit2.png) ![Edit](/assets/edit/edit3.png)
 - **Grades**: ![Grades](/assets/grades/Grades1.png) ![Grades](/assets/grades/Grades2.png) ![Grades](/assets/grades/Grades3.png) ![Grades](/assets/grades/Grades4.png)
 - **Trash**: ![Trash](/assets/trash/Trash1.png) ![Trash](/assets/trash/Trash2.png) ![Trash](/assets/trash/Trash3.png)
@@ -356,7 +356,6 @@ Installation requirements:
 
 You need to provide the path to the JavaFX file
 
-## YouTube Video
 
-Link to Video
-https://youtu.be/ZoCezYx8hj0
+
+
