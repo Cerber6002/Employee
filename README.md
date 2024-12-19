@@ -65,7 +65,7 @@ The UML class diagram provides a visual representation of the system’s structu
 
 
 ## Weekly Meeting Documentation
-Weekly meeting summaries and action items can be found in the [Google Docs link]().
+Weekly meeting summaries and action items can be found in the [Google Docs link](https://docs.google.com/document/d/1PijUn0n5k_D97fTpI0iBt1rOqc8uc90b-B3DsMxehgk/edit?usp=sharing).
 
 
 ## GitHub Repository
